@@ -180,6 +180,7 @@ RetailPulse-PowerBI-Analytics/
     ├── dashboard3.png
     ├── dashboard4.png
     └── dashboard5.png
+```
 
 ---
 
@@ -210,7 +211,8 @@ A detailed executive report explaining project objectives, dashboard modules, bu
 
 MBA (Data Science & AI)
 
-LinkedIn: 
----https://www.linkedin.com/in/arpit-jamwal-3a441a33a 
+LinkedIn: https://www.linkedin.com/in/arpit-jamwal-3a441a33a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+---
 
 ## ⭐ If you found this project useful, please consider giving it a Star!
