@@ -180,31 +180,6 @@ RetailPulse-PowerBI-Analytics/
     ├── dashboard3.png
     ├── dashboard4.png
     └── dashboard5.png
-```
-
----
-
-# 📸 Dashboard Preview
-
-## Executive Dashboard
-
-![Dashboard 1](images/dashboard1.png)
-
-## Sales Dashboard
-
-![Dashboard 2](images/dashboard2.png)
-
-## Customer Dashboard
-
-![Dashboard 3](images/dashboard3.png)
-
-## Inventory Dashboard
-
-![Dashboard 4](images/dashboard4.png)
-
-## Profit Dashboard
-
-![Dashboard 5](images/dashboard5.png)
 
 ---
 
